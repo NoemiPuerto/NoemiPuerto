@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://your-image-host.com/noemi-verde.svg" alt="Noemi Puerto">
-</h1>
+<h1 align="center" color=228B22><b>Hola, soy Noemi Puerto </b>
 
 <!--  -->
 <p align="center">
