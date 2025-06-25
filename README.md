@@ -23,7 +23,7 @@
 
 - 📫 Puedes contactarme a través de mi correo: **noemipuertor@gmail.com**
 
-- 📄 Conoce más sobre mi experiencia: <a href="URL_DE_TU_CV" target="_blank">Ver currículum</a>
+- 📄 Conoce más sobre mi experiencia: <a href="https://github.com/NoemiPuerto/Portafolio/blob/main/MagdalenaPuerto_IngenieraEnSistemas.pdf" target="_blank">Ver currículum</a>
 <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
