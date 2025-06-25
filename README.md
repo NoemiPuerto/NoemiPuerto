@@ -39,7 +39,7 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=NoemiPuerto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=83A867F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiPuerto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=83A867F&icon_color=F8D866" height="192px"/>
+<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=NoemiPuerto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=83A867F&icon_color=E87A54" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiPuerto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=83A867F&icon_color=E87A54" height="192px"/>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
