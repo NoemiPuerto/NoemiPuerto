@@ -72,9 +72,22 @@
 ----------------
 
 <div align="center">
+  <h1 style="font-size: 3em; color: #e74c3c; text-shadow: 3px 3px #bdc3c7;">Hello, I'm Azzar Budiyanto</h1>
+  <h4 style="font-size: 1.5em; color: #2980b9; margin-top: -10px;">
+    Freelance Software Developer | IoT & Embedded Systems Enthusiast
+  </h4>
+  <p style="max-width:600px; margin:auto; color:#555;">
+    I build scalable web applications and innovative IoT solutions that bridge hardware and software. Passionate about open source, mentoring, and continuous learning.
+  </p>
+</div>
+
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
+
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/" target="_blank">
-    <img src="/resources/grid-snake.svg" alt="snake"
+    <img src="/resources/grid-snake.svg" alt="Azzar Logo"
          style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); max-width:200px;">
   </a>
 </div>
 
+<hr style="border: 1px solid #3498db; margin: 20px 0;">
