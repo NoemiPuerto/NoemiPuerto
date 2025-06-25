@@ -6,7 +6,6 @@
 </p>
 
 <br>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NoemiPuerto&label=Profile%20views&color=0e75b6&style=flat" alt="NoemiPuerto" /> </p>
 
 <a target="_blank" align="center">
