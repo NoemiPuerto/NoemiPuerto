@@ -46,6 +46,8 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NoemiPuerto&theme=dark&show_icons=true&count_private=true" />
   <br></br>
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NoemiPuerto&theme=dark" alt="anii693" /></p>
+  <br></br>
 </td>
 
 <td width="50%" align="center">
@@ -70,7 +72,5 @@
 
 
 ----------------
-	
-<p align = "center">
-	<img src = "https://github.com/NoemiPuerto/NoemiPuerto/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+
