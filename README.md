@@ -46,7 +46,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=NoemiPuerto&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NoemiPuerto&theme=dark" alt="anii693" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NoemiPuerto&theme=dark" /></p>
   <br></br>
 </td>
 
