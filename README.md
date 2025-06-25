@@ -16,7 +16,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NoemiPuerto&label=Profile%20views&color=0e75b6&style=flat" alt="NoemiPuerto" /> </p>
 
 <a target="_blank" align="center">
-  <img align="left" top="200" height="400" width="400" alt="Yo" src="https://i.postimg.cc/q7Px9tv8/descarga.png">
+  <img align="left" top="600" height="400" width="400" alt="Yo" src="https://i.postimg.cc/q7Px9tv8/descarga.png">
 </a>
 
 - 🎓 Actualmente estudio Ingeniería en Sistemas Computacionales, mientras desarrollo proyectos personales muy interesantes.
