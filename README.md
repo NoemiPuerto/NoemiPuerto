@@ -1,5 +1,5 @@
 <h1 align="center" color=228B22><b>Hola, soy Noemi Puerto </b>
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=228B22&size=25&center=true&vCenter=true&width=600&height=100&lines=bienvenid@+a+mi+perfil+❤️;Desarrolladora+Frontend+autodidacta;Self-taught+Front-End+Developer,;Ingeniera+en+Sistemas+Computacionales,;Aprendiz+activa+y+curiosa,;Active+Learner/Researcher,;Amante+de+aprender+cosas+nuevas+<3,;Love+to+learn+new+stuffs..<3"></a>
