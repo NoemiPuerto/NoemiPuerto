@@ -9,6 +9,14 @@
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NoemiPuerto&label=Profile%20views&color=0e75b6&style=flat" alt="NoemiPuerto" /> </p>
 
+<p align="center">
+Este perfil documenta mi crecimiento en el desarrollo y diseño de productos digitales. 
+Aquí encontrarás proyectos, experimentos y tecnologías que he explorado mientras evoluciono 
+como estudiante, freelancer y creadora de productos. Aunque algunos trabajos no pueden 
+mostrarse públicamente, este espacio refleja mi proceso de aprendizaje, adaptación y 
+construcción constante.
+</p>
+
 <a target="_blank" align="center">
  <img align="left" height="300" width="300" alt="Yo" src="https://i.postimg.cc/q7Px9tv8/descarga.png">
 </a>
@@ -29,43 +37,43 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
 <!-- Programming Languages -->
-<h3 align="center">Programming Languages</h3>
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,dart,matlab" />
 </p>
 
 <!-- Frontend Development -->
-<h3 align="center">Frontend Development</h3>
+<p align="center"><b>Frontend Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react" />
 </p>
 
 <!-- Backend & Databases -->
-<h3 align="center">Backend & Databases</h3>
+<p align="center"><b>Backend & Databases</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,wordpress" />
 </p>
 
 <!-- Mobile & Game Development -->
-<h3 align="center">Mobile & Game Development</h3>
+<p align="center"><b>Mobile & Game Development</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,godot" />
 </p>
 
 <!-- Design & Product -->
-<h3 align="center">Design & Product</h3>
+<p align="center"><b>Design & Product</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,ps,pr" />
 </p>
 
 <!-- Development Tools -->
-<h3 align="center">Development Tools</h3>
+<p align="center"><b>Development Tools</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,sublime" />
 </p>
 
 <!-- Version Control & Collaboration -->
-<h3 align="center">Version Control & Collaboration</h3>
+<p align="center"><b>Version Control & Collaboration</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,bitbucket,notion" />
 </p>
