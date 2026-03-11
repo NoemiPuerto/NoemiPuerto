@@ -28,12 +28,53 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <!--tech stack icons-->
+<!-- Programming Languages -->
+<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=wordpress,js,ts,html,css,sass,bootstrap,mysql,react,nodejs,flutter,dart,matlab,godot,github,figma,notion,ps,pr,sublime,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,matlab" />
 </p>
-<br>
+
+<!-- Frontend Development -->
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html, css, sass, bootstrap, react, nextjs" />
+</p>
+
+<!-- Backend & Databases -->
+<h3 align="center">Backend & Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,wordpress" />
+</p>
+
+<!-- Mobile & Game Development -->
+<h3 align="center">Mobile & Game Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,godot" />
+</p>
+
+<!-- Build Tools & Development Environment -->
+<h3 align="center">Build Tools & Development Environment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vite, vscode, sublime" />
+</p>
+
+<!-- Design & Product -->
+<h3 align="center">Design & Product</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma, ps, pr, canvar" />
+</p>
+
+<!-- Development Tools -->
+<h3 align="center">Development Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+</p>
+
+<!-- Version Control & Collaboration -->
+<h3 align="center">Version Control & Collaboration</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,bitbucket,git,notion, jira, miro" />
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <!--- stats & Trophy (start) -->
