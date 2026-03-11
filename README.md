@@ -13,13 +13,13 @@
  <img align="left" height="300" width="300" alt="Yo" src="https://i.postimg.cc/q7Px9tv8/descarga.png">
 </a>
 
-- 🎓 Actualmente estudio Ingeniería en Sistemas Computacionales, mientras desarrollo proyectos personales muy interesantes.
+- 🎓 Actualmente estudio Ingeniería en Sistemas Computacionales, y estudié una Licenciatura en Mecadotecnia de la cual tengo un certificado técnico.
 
-- 🚀 Estoy creando una aplicación web utilizando **React** y herramientas modernas de desarrollo.
+- 🚀 He estado trabajando en proyectos interesantes como freelancer UX/UI designer y product manager.
 
-- 💼 Disponible para trabajar como **freelancer** en proyectos de desarrollo web.
+- 💼 Disponible para trabajar como **freelancer** en proyectos de diseño y desarrollo de aplicaciones web, moviles o landing pages.
 
-- 🌱 Me encuentro profundizando en **React**, diseño responsivo y mejores prácticas de frontend.
+- 🌱 Me encuentro profundizando en **Framer, Affinity, Cursor** para crear mejores diseños intuitivos que se centren en el usuario.
 
 - 📫 Puedes contactarme a través de mi correo: **noemipuertor@gmail.com**
 
