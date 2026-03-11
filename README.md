@@ -1,13 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<h1 align="center" color=228B22><b>Hola, soy Noemi Puerto </b>
+
+<h1 align="center"><b>Hola, soy Noemi Puerto </b>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=228B22&size=25&center=true&vCenter=true&width=600&height=100&lines=bienvenid@+a+mi+perfil+❤️;UX/UI+Designer+Freelancer+autodidacta;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=228B22&size=25&center=true&vCenter=true&width=600&height=100&lines=bienvenid@+a+mi+perfil+❤️;UX/UI+Designer+Freelancer+autodidacta;Love+to+learn+new+stuffs..<3">
+  </a>
 </p>
 
 <br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=NoemiPuerto&label=Profile%20views&color=0e75b6&style=flat" alt="NoemiPuerto" /> </p>
 
 <p align="center">
 Este perfil documenta mi crecimiento en el desarrollo y diseño de productos digitales. 
@@ -15,6 +17,12 @@ Aquí encontrarás proyectos, experimentos y tecnologías que he explorado mient
 como estudiante, freelancer y creadora de productos. Aunque algunos trabajos no pueden 
 mostrarse públicamente, este espacio refleja mi proceso de aprendizaje, adaptación y 
 construcción constante.
+</p>
+
+<br>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=NoemiPuerto&label=Profile%20views&color=0e75b6&style=flat" alt="NoemiPuerto"/>
 </p>
 
 <a target="_blank" align="center">
@@ -32,66 +40,73 @@ construcción constante.
 - 📫 Puedes contactarme a través de mi correo: **noemipuertor@gmail.com**
 
 - 📄 Conoce más sobre mi experiencia: <a href="https://github.com/NoemiPuerto/Portafolio/blob/main/MagdalenaPuerto_IngenieraEnSistemas.pdf" target="_blank">Ver currículum</a>
+
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<!--tech stack icons-->
+## 🧰 Tech Stack & Tools
+
 <!-- Programming Languages -->
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,dart,matlab" />
+<img src="https://skillicons.dev/icons?i=js,ts,dart,matlab" />
 </p>
 
-<!-- Frontend Development -->
+<!-- Frontend -->
 <p align="center"><b>Frontend Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react" />
 </p>
 
-<!-- Backend & Databases -->
+<!-- Backend -->
 <p align="center"><b>Backend & Databases</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,mysql,wordpress" />
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,wordpress" />
 </p>
 
-<!-- Mobile & Game Development -->
+<!-- Mobile -->
 <p align="center"><b>Mobile & Game Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,godot" />
+<img src="https://skillicons.dev/icons?i=flutter,godot" />
 </p>
 
-<!-- Design & Product -->
+<!-- Design -->
 <p align="center"><b>Design & Product</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr" />
+<img src="https://skillicons.dev/icons?i=figma,ps,pr" />
 </p>
 
-<!-- Development Tools -->
+<!-- Tools -->
 <p align="center"><b>Development Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,sublime" />
+<img src="https://skillicons.dev/icons?i=vscode,sublime" />
 </p>
 
-<!-- Version Control & Collaboration -->
+<!-- Version control -->
 <p align="center"><b>Version Control & Collaboration</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,bitbucket,notion" />
+<img src="https://skillicons.dev/icons?i=github,bitbucket,notion" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=NoemiPuerto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiPuerto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-<!--- stats (end) -->
+<br>
 
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=NoemiPuerto&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+<p align="center">
+
+<img alt="NoemiPuerto Github Stats" 
+src="https://github-readme-stats.vercel.app/api/?username=NoemiPuerto&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+<img alt="Top Languages" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiPuerto&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+
+</p>
+
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width=84% src="https://github-profile-trophy.vercel.app/?username=NoemiPuerto&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true"/>
+</a>
 </div>
-<!--- trophy (end) -->
-</p>        
-<!--- stats (end) -->
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
