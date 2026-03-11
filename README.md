@@ -37,7 +37,7 @@
 <!-- Frontend Development -->
 <h3 align="center">Frontend Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html, css, sass, bootstrap, react, nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,react" />
 </p>
 
 <!-- Backend & Databases -->
@@ -52,16 +52,10 @@
   <img src="https://skillicons.dev/icons?i=flutter,godot" />
 </p>
 
-<!-- Build Tools & Development Environment -->
-<h3 align="center">Build Tools & Development Environment</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite, vscode, sublime" />
-</p>
-
 <!-- Design & Product -->
 <h3 align="center">Design & Product</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma, ps, pr, canvar" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,pr" />
 </p>
 
 <!-- Development Tools -->
@@ -73,7 +67,7 @@
 <!-- Version Control & Collaboration -->
 <h3 align="center">Version Control & Collaboration</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,bitbucket,git,notion, jira, miro" />
+  <img src="https://skillicons.dev/icons?i=github,bitbucket,notion" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
